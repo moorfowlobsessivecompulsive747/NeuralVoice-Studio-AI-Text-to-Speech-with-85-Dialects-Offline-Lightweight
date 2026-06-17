@@ -1,0 +1,2 @@
+# NeuralVoice-Studio-AI-Text-to-Speech-with-85-Dialects-Offline-Lightweight
+NeuralVoice Studio is a next-generation, open-source AI voice generator delivering hyper-realistic speech in 85 languages and dialects. Engineered for efficiency, it runs smoothly on low-end PCs without sacrificing audio quality. Perfect for content creators, educators, and developers seeking a private, offline TTS solution.
